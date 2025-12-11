@@ -53,6 +53,7 @@ API_KEY = "token-abc123"
 MODEL = "Qwen/Qwen2.5-VL-7B-Instruct-AWQ"
 # MODEL = "Qwen/Qwen3-VL-8B-Instruct-FP8"
 
+
 os.makedirs("images", exist_ok=True)
 
 
